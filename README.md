@@ -7,3 +7,10 @@
 - CSS
 - JavaScript
 - Python
+
+## C какими средами разработки я знакома?
+- Visual Studio
+- PyCharm
+- Visual Studio Code (VS Code)
+- Sublime Text
+- Notepad++
